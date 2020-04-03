@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-public class variables {
+public class Variables {
 
     @Test
     public void examples() {
