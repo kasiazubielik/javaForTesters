@@ -1,8 +1,8 @@
-package AccessModifiers1;
+package AccessModifiers2;
 
-import org.junit.jupiter.api.Test;
+import AccessModifiers1.BasePage;
 
-public class ProductPage extends BasePage{
+public class ProductPage {
 
     public String productName;
     public String productPrice;
